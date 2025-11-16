@@ -24,11 +24,11 @@ You can reach me via:
 
 Here are some of the apps and projects I've worked on:
 
-1. **[Project 1: Weather App](#)**: A mobile app built using Flutter and Firebase to show real-time weather information.
+1. **[Project 1: Weather App](https://www.google.com/)**: A mobile app built using Flutter and Firebase to show real-time weather information.
    - Technologies: Flutter, Dart, Firebase, REST APIs
    - Key Features: Real-time data fetching, responsive design, Firebase Authentication.
 
-2. **[Project 2: Task Manager](#)**: A task management app to help users organize their tasks with notifications and reminders.
+2. **[Project 2: Task Manager](https://www.facebook.com/)**: A task management app to help users organize their tasks with notifications and reminders.
    - Technologies: Flutter, Dart, Firebase Firestore, Push Notifications
    - Key Features: CRUD operations, Firebase Cloud Messaging for notifications.
 
